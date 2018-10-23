@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/moov-io/paygate/internal/version"
+	"../../internal/version"
 
 	"github.com/go-kit/kit/log"
 )
